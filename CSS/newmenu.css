@@ -147,11 +147,11 @@ background: #a55d35; /* Old browsers */
 /* background-color:#fb4d43; */
  
  
- /*background: url(../images/bg.jpg) repeat;*/}
+ /*background: none repeat;*/}
 
 
 
-#wrapper { width:1200px; height: auto; margin:0 auto; background:url(../images/bg1.png) no-repeat;background-position:top; background-attachment:fixed;}
+#wrapper { width:1200px; height: auto; margin:0 auto; background:none no-repeat;background-position:top; background-attachment:fixed;}
 
 #content { width:843px; 
 height:auto;margin:0 auto;
